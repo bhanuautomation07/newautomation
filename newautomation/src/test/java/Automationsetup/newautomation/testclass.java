@@ -7,6 +7,7 @@ public class testclass {
 sampleclass ob= new sampleclass();
 
 ob.test();
+System.out.println("bhanutest");
 	}
 
 }
